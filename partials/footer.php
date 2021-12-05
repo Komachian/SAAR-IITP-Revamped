@@ -20,20 +20,20 @@
         </div>
         
         <div class="contact">
-            <div class="footer-field">
-                <b>Office of A Dean Resource,</b><br>
+            <p class="footer-field">
+                Office of A Dean Resource,<br>
                 Administrative Building, IIT Patna
-            </div>
-            <div class="footer-field">
+            </p>
+            <p class="footer-field">
                 <b>Prof. In-charge:</b><br>
                 Dr. Anirban Chowdhary<br>
-                <a href="mailto:pic_alumni@iitp.ac.in" class="link">pic_alumni@iitp.ac.in</a>
-            </div>
-            <div class="footer-field">
+                <a href="mailto:pic_alumni@iitp.ac.in" class="link"><i class="fa fa-envelope"></i> pic_alumni@iitp.ac.in</a>
+            </p>
+            <p class="footer-field">
                 <b>General Secretary:</b><br>
                 Gaurav Pratap Singh<br>
-                <a href="mailto:1801ee63@iitp.ac.in" class="link">1801ee63@iitp.ac.in</a>
-            </div>
+                <a href="mailto:1801ee63@iitp.ac.in" class="link"><i class="fa fa-envelope"></i> 1801ee63@iitp.ac.in</a>
+            </p>
         </div>
     </div>
     <div class="copyright">© IIT Patna SAAR Team</div>
